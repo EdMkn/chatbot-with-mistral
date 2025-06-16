@@ -1,3 +1,4 @@
 flask
 mistralai
 dotenv
+flask_cors
